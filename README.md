@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pinterest.com/pin/809170258024942311/)](https://manojkumarkosuri.github.io/)
+[![MasterHead](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)](https://manojkumarkosuri.github.io/)
 <h1 align="center">Hi 👋, I'm Kosuri Manoj Kumar</h1>
 <h3 align="center">Software Engineer with hands-on experience in Cloud Administration, Frontend Development, Linux, Windows, Network, Oracle, and SQL Database Administration.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
