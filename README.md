@@ -4,15 +4,15 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojkumarkosuri&label=Profile%20views&color=0e75b6&style=flat" alt="manojkumarkosuri" /> </p>
 
-- 🌱 I’m currently learning **AI and ML**
+-  I’m currently learning **AI and ML**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ManojKumarKosuri](https://github.com/ManojKumarKosuri)
+-  All of my projects are available at [https://github.com/ManojKumarKosuri](https://github.com/ManojKumarKosuri)
 
-- 💬 Ask me about **Cloud, Data Engineering, SQL, Spark, ETL, Python**
+-  Ask me about **Cloud, Data Engineering, SQL, Spark, ETL, Python**
 
-- 📫 How to reach me **kosurimanojkumar2000@gmail.com**
+-  How to reach me **kosurimanojkumar2000@gmail.com**
 
-- 📄 Know about my experiences [https://manojkumarkosuri.github.io/](https://manojkumarkosuri.github.io/)
+-  Know about my experiences [https://manojkumarkosuri.github.io/](https://manojkumarkosuri.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,5 +45,3 @@
 <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="50" height="50"/>
 </a>
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojkumarkosuri&" alt="manojkumarkosuri" /></p>
