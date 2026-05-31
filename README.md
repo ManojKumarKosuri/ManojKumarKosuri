@@ -46,15 +46,9 @@ Data visualization, APIs</h3>
 <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="50" height="50"/>
 </a>
 </p>
-<a href="https://worldofwarcraft.blizzard.com/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/en/6/65/World_of_Warcraft.png" alt="World of Warcraft" width="50" height="50"/>
-</a>
 <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="45" height="45"/>
 </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-</a>
-<a href="https://azure.microsoft.com/en-us/products/synapse-analytics/" target="_blank" rel="noreferrer">
-<img src="https://www.svgrepo.com/show/373455/azure-synapse.svg" alt="Azure Synapse" width="45" height="45"/>
 </a>
