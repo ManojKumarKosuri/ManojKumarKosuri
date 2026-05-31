@@ -45,7 +45,5 @@
 <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="50" height="50"/>
 </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojkumarkosuri&show_icons=true&locale=en&layout=compact" alt="manojkumarkosuri" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojkumarkosuri&show_icons=true&locale=en" alt="manojkumarkosuri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojkumarkosuri&" alt="manojkumarkosuri" /></p>
