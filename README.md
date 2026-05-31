@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)](https://manojkumarkosuri.github.io/)
+[![MasterHead]([https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif](https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif))](https://manojkumarkosuri.github.io/)
 <h1 align="center">Hey There! I'm Manoj Kumar Kosuri</h1>
 <h3 align="center">Senior Data Engineer with experiene in Pyspark, SQL, Python, Databricks, Cloud, ETL tools, Data Warehousing, 
 Data visualization, APIs</h3>
