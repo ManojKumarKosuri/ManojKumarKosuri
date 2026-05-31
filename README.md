@@ -1,14 +1,14 @@
 [![MasterHead](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)](https://manojkumarkosuri.github.io/)
-<h1 align="center">Hi 👋, I'm Kosuri Manoj Kumar</h1>
-<h3 align="center">Software Engineer with hands-on experience in Cloud Administration, Frontend Development, Linux, Windows, Network, Oracle, and SQL Database Administration.</h3>
+<h1 align="center">Hey There! I'm Manoj Kumar Kosuri</h1>
+<h3 align="center">Senior Data Engineer with experiene in Pyspark, SQL, Python, Databricks, ETL tools, Cloud</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojkumarkosuri&label=Profile%20views&color=0e75b6&style=flat" alt="manojkumarkosuri" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **AI and ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ManojKumarKosuri](https://github.com/ManojKumarKosuri)
 
-- 💬 Ask me about **Cloud, Network, Linux, Windows, Oracle, SQL Database Administration.**
+- 💬 Ask me about **Cloud, Data Engineering, SQL, Spark, ETL, Python**
 
 - 📫 How to reach me **kosurimanojkumar2000@gmail.com**
 
