@@ -1,10 +1,11 @@
 [![MasterHead](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)](https://manojkumarkosuri.github.io/)
 <h1 align="center">Hey There! I'm Manoj Kumar Kosuri</h1>
-<h3 align="center">Senior Data Engineer with experiene in Pyspark, SQL, Python, Databricks, ETL tools, Cloud</h3>
+<h3 align="center">Senior Data Engineer with experiene in Pyspark, SQL, Python, Databricks, Cloud, ETL tools, Data Warehousing, 
+Data visualization, APIs</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojkumarkosuri&label=Profile%20views&color=0e75b6&style=flat" alt="manojkumarkosuri" /> </p>
 
--  I’m currently learning **AI and ML**
+-  Currently learning **AI and ML**
 
 -  All of my projects are available at [https://github.com/ManojKumarKosuri](https://github.com/ManojKumarKosuri)
 
@@ -45,3 +46,15 @@
 <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="50" height="50"/>
 </a>
 </p>
+<a href="https://worldofwarcraft.blizzard.com/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/en/6/65/World_of_Warcraft.png" alt="World of Warcraft" width="50" height="50"/>
+</a>
+<a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="45" height="45"/>
+</a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+</a>
+<a href="https://azure.microsoft.com/en-us/products/synapse-analytics/" target="_blank" rel="noreferrer">
+<img src="https://www.svgrepo.com/show/373455/azure-synapse.svg" alt="Azure Synapse" width="45" height="45"/>
+</a>
